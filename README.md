@@ -21,13 +21,13 @@ AWS Academy Learner Lab
 
 3.lambda.zip：https://github.com/EISCFCU/cloudcomputing_acf/blob/main/s3-csv-trans-cf42bb56-a71d-49da-961d-684300dea41a.zip
 
-# Lab Scenario
+# 實施架構
 
 ![image](https://user-images.githubusercontent.com/103306835/167766069-215b877d-fb67-447d-8b91-e377b066bc69.png)
 
 # 操作步驟
 
-![image](https://user-images.githubusercontent.com/103306835/167766102-f3d54bac-f440-480f-a0fc-1d053e320537.png)
+![image](https://user-images.githubusercontent.com/103306835/167780407-00ae5edd-8466-4efc-9880-39830785ade8.png)
 
 
 # Step1：建立雲端資料庫
@@ -430,12 +430,14 @@ CREATE TABLE IF NOT EXISTS product_sale_summary(
 2.目前測試出來的錯誤訊息
 
 =>No suchkey 表示S3找不到檔案或是桶子名字輸入錯誤
+
+
 =>PutItem error表示Dynamodb資料表名字或欄位輸入錯誤
 
 
 
 
-
+參考資源：https://github.com/Rabindra-Sapkota/summarize-sale-data-aws
 
 
 
