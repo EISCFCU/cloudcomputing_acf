@@ -1,7 +1,3 @@
-# cloudcomputing_acf
-
-
-
 # 情境
 
 森森購物考量到未來資訊服務的使用彈性，預計第一階段先將公司自建的POS系統資料庫遷移到 Amazon Web Services平台。
