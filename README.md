@@ -11,7 +11,7 @@ AWS Academy Learner Lab
 
 1.sqlectron：https://sqlectron.github.io/
 
-2.csv檔
+2.csv檔：https://github.com/EISCFCU/cloudcomputing_acf/blob/main/product_sale.csv
 
 3.lambda.zip
 
