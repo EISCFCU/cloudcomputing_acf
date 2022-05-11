@@ -319,6 +319,8 @@ AWS Academy Learner Lab(課程代碼：13467)
 
 # Step5： RDS連線到雲端資料庫 
 
+(補RDS Security group 設定)
+
 1.開啟sqlectron
 
 ![image](https://user-images.githubusercontent.com/103306835/167772383-1ef8b6b7-cf0b-4e5e-8adb-f7b20a8af95d.png)
