@@ -4,6 +4,14 @@
 由於POS資料庫從SQLite資料庫更換為MYSQL資料庫，資訊主管指示A團隊小組將先將既有POS資料匯出(CSV檔)，上傳雲端儲存桶(S3)做備份，並同時直接存入MYSQL資料庫。
 另外，這一系列的上傳備份與資料庫異動的動作(Log)，主管希望記錄在No sql的資料庫(Dynamodb)中，方便後續追蹤備份與轉換，請協助進行POS系統的資料庫雲端搬遷。
 
+# 使用環境
+AWS Academy Learner Lab
+
+# 使用資源
+
+1.sqlectron：https://sqlectron.github.io/
+2.csv檔
+3.lambda.zip
 
 # Lab Scenario
 
