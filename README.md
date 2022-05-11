@@ -261,7 +261,7 @@ AWS Academy Learner Lab
 ![image](https://user-images.githubusercontent.com/103306835/167772156-7a65780a-db24-492f-8272-abc8647b60b7.png)
 
 
-'''
+```
 {
   "Records": [
     {
@@ -301,9 +301,7 @@ AWS Academy Learner Lab
   ]
 }
 
-
-'''
-script
+```
 
 
 26.修改23、27行的s3 bucket name及30行的object name(product_sale.csv)
