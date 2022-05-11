@@ -10,7 +10,9 @@ AWS Academy Learner Lab
 # 使用資源
 
 1.sqlectron：https://sqlectron.github.io/
+
 2.csv檔
+
 3.lambda.zip
 
 # Lab Scenario
