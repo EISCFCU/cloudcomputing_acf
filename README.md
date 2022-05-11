@@ -340,7 +340,15 @@ AWS Academy Learner Lab
 ![image](https://user-images.githubusercontent.com/103306835/167772490-8df9b4ea-8487-4406-815e-e8f0ff6e5f37.png)
 
 6.輸入SQL語法
-
+、、、
+CREATE TABLE IF NOT EXISTS product_sale_summary(
+  product_name varchar(255),
+  quantity int,
+  amount double,
+  revenue double,
+  file_name varchar(255)
+  );
+、、、
 ![image](https://user-images.githubusercontent.com/103306835/167772541-fd18e851-2f38-4801-ac0e-f396cce2463a.png)
 
 7.點選[Execute]
