@@ -141,7 +141,7 @@ AWS Academy Learner Lab
 
 3.點選[建立資料表]
 
-![image](https://user-images.githubusercontent.com/103306835/167770174-457c19c8-df1b-491c-9426-91ae269e649d.png)
+![image](https://user-images.githubusercontent.com/103306835/167780196-12e115f9-1aed-46fc-95ae-43a65b0d9b89.png)
 
 4.輸入資料表名稱：S3-log-20220512
 
@@ -340,7 +340,7 @@ AWS Academy Learner Lab
 ![image](https://user-images.githubusercontent.com/103306835/167772490-8df9b4ea-8487-4406-815e-e8f0ff6e5f37.png)
 
 6.輸入SQL語法
-、、、
+```
 CREATE TABLE IF NOT EXISTS product_sale_summary(
   product_name varchar(255),
   quantity int,
@@ -348,7 +348,7 @@ CREATE TABLE IF NOT EXISTS product_sale_summary(
   revenue double,
   file_name varchar(255)
   );
-、、、
+```
 ![image](https://user-images.githubusercontent.com/103306835/167772541-fd18e851-2f38-4801-ac0e-f396cce2463a.png)
 
 7.點選[Execute]
