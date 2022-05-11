@@ -11,7 +11,7 @@
 另外，這一系列的上傳備份與資料庫異動的動作(Log)，主管希望記錄在No sql的資料庫(Dynamodb)中，方便後續追蹤備份與轉換，請協助進行POS系統的資料庫雲端搬遷。
 
 # 使用環境
-AWS Academy Learner Lab
+AWS Academy Learner Lab(課程代碼：13467)
 
 # 使用資源
 
