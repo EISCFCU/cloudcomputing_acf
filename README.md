@@ -437,7 +437,9 @@ CREATE TABLE IF NOT EXISTS product_sale_summary(
 
 
 
-參考資源：https://github.com/Rabindra-Sapkota/summarize-sale-data-aws
+# 參考資源
+
+https://github.com/Rabindra-Sapkota/summarize-sale-data-aws
 
 
 
