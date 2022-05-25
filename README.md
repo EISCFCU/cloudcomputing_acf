@@ -3,4 +3,4 @@
 
 01_雲端資料庫搬遷Lab：https://github.com/EISCFCU/cloudcomputing_acf/blob/main/01_%E9%9B%B2%E7%AB%AF%E8%B3%87%E6%96%99%E5%BA%AB%E6%90%AC%E9%81%B7Lab.md
 
-02_雲端搬遷專案Lab：https://github.com/EISCFCU/cloudcomputing_acf/blob/main/02_%E9%9B%B2%E7%AB%AF%E6%90%AC%E9%81%B7%E5%B0%88%E6%A1%88Lab.md
+02_雲端搬遷專案Lab：https://github.com/EISCFCU/cloudcomputing_acf/blob/main/02_AWS_ACF_Challenge_Lab.md
