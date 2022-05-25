@@ -654,7 +654,6 @@
 
 
 58.此時會多了兩台EC2
-
 59.點選[負載平衡器Load Balancer]
 
 60.勾選LabELB 並複製DNS name
