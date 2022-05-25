@@ -252,17 +252,38 @@
 
 24.發現2/2項檢查通過
 
+![image](https://user-images.githubusercontent.com/103306835/170191630-19ae7d9f-7c5d-4d5a-8cdd-58f40732dd2d.png)
+
+
 25.勾選WebServer伺服器
+
+![image](https://user-images.githubusercontent.com/103306835/170192288-1c7fd8c2-2bf8-424b-8828-b2d75ba0d180.png)
+
 
 26.在Details頁籤 複製 IPv4 address
 
+![image](https://user-images.githubusercontent.com/103306835/170192331-d2ffd7a4-156e-4b95-8719-6ab845dce01e.png)
+
+
 27.開啟無痕
+
+![image](https://user-images.githubusercontent.com/103306835/170192396-61d55c37-fe2a-46b8-bc36-cd1efedd4f95.png)
+
 
 28.將IPv4 address 貼到無痕
 
+![image](https://user-images.githubusercontent.com/103306835/170192434-c1e7a0df-7c00-47d0-8481-9bf8a797c339.png)
+
+
 29.任務2結果示意圖
 
+![image](https://user-images.githubusercontent.com/103306835/170192472-e5140600-b4b5-4afa-84e3-ca64168a7899.png)
+
+
 30.實施架構
+
+![image](https://user-images.githubusercontent.com/103306835/170192521-2c8e66a6-c640-4a5a-a09b-5e6ca66d553f.png)
+
 
 # 任務3：建立資料庫服務器
 
@@ -270,40 +291,145 @@
 
 1.點選[安全群組]
 
+![image](https://user-images.githubusercontent.com/103306835/170192635-cf24cef4-6103-43e4-83ef-a58453726371.png)
+
 2.點選[建立安全群組]
+
+![image](https://user-images.githubusercontent.com/103306835/170192752-4502ebfb-5567-4403-b3d7-6e680f557b58.png)
 
 3.輸入安全群組名稱與描述
 
+![image](https://user-images.githubusercontent.com/103306835/170192804-183930f2-07a5-402e-9461-438778b9083f.png)
+
+
 4.選擇Lab VPC
+
+![image](https://user-images.githubusercontent.com/103306835/170192842-028611e0-f9f4-4897-82ac-3a3bb3e71e64.png)
 
 5.設定傳入規則
 
+![image](https://user-images.githubusercontent.com/103306835/170193312-db6e0cba-2813-4a27-a0bb-976ed4c621f6.png)
+
+
 6.點選[建立安全群組]
+
+![image](https://user-images.githubusercontent.com/103306835/170193335-c522b0b5-d1b0-432f-9ea3-a31df3b7330b.png)
+
 
 7.成功建立安全群組
 
+![image](https://user-images.githubusercontent.com/103306835/170193351-8c9285a0-c287-4e9b-8e4a-85f6bef59b5c.png)
+
+
 8.搜尋RDS 並點選RDS
+
+![image](https://user-images.githubusercontent.com/103306835/170193376-91aae952-685c-473c-b86d-c792d3fef3d1.png)
+
 
 9.點選子網路群組
 
+![image](https://user-images.githubusercontent.com/103306835/170193421-80f76c4a-d6c4-41d4-bfb9-653ecb8a60af.png)
+
+
 10.點選[建立資料庫子網路群組]
+
+![image](https://user-images.githubusercontent.com/103306835/170193484-ef2225e5-e4aa-432c-9a9f-73e3dcd27675.png)
 
 11.設定名稱、描述與VPC
 
+![image](https://user-images.githubusercontent.com/103306835/170193506-c261ba28-dd7d-48a7-88fa-a85ea30b00fe.png)
+
+
 12.設定可用區1a、1b(子網路10.0.1.0/24、10.0.3.0/24)
+
+![image](https://user-images.githubusercontent.com/103306835/170193558-f52c7bea-55c7-4031-b389-bd16a96c3b75.png)
+
 
 13.點選[建立]
 
+![image](https://user-images.githubusercontent.com/103306835/170193572-78d8ad72-371f-4040-a581-60f7edd81295.png)
+
+
 14.點選資料庫
+
+![image](https://user-images.githubusercontent.com/103306835/170193703-4c1c7946-0b11-4b33-9e0f-f3c162acb3fb.png)
+
 
 15.點選[建立資料庫]
 
+![image](https://user-images.githubusercontent.com/103306835/170193744-c52625be-e6fc-484f-86fb-c6d740f074ad.png)
+
+
 16.選擇MYSQL
+
+![image](https://user-images.githubusercontent.com/103306835/170193798-ae872875-ae6b-432f-a025-09668a2822cd.png)
+
 
 17.選擇免費方案
 
+![image](https://user-images.githubusercontent.com/103306835/170193841-471b4e51-dbe9-4d8c-be66-4357256b8122.png)
+
 18.資料庫名稱與帳密設定
+
+![image](https://user-images.githubusercontent.com/103306835/170194025-8f8cd551-a395-4fd6-8e26-03832a66a46a.png)
 
 19.選擇爆量類別
 
+![image](https://user-images.githubusercontent.com/103306835/170194211-7ab18b2e-c6c6-4973-aab1-9034ba9ff9cb.png)
+
 20.選擇Lab VPC
+
+![image](https://user-images.githubusercontent.com/103306835/170194246-e1a4b52e-24cb-49fc-a9d3-115cb18239c6.png)
+
+21.選擇子網路群組：db-subnet-group
+
+![image](https://user-images.githubusercontent.com/103306835/170194541-f677c745-20cf-440c-a437-8758a87a4e88.png)
+
+22.選擇現有的VPC安全群組
+
+![image](https://user-images.githubusercontent.com/103306835/170194587-9cb8f3c5-6422-42f2-98fa-70b66843417e.png)
+
+![image](https://user-images.githubusercontent.com/103306835/170194687-cc3ccdaf-1b38-4127-a895-f18f5e2d0594.png)
+
+23.展開[其他組態]
+
+![image](https://user-images.githubusercontent.com/103306835/170194745-4c1bf253-edfb-43de-ad39-2f03e424468c.png)
+
+24.設定初始資料庫名稱：lab(請務必輸入此名稱)
+
+![image](https://user-images.githubusercontent.com/103306835/170194830-853fb41b-d1ab-4215-b948-b7a28cc63872.png)
+
+25.點選[建立資料庫]
+
+![image](https://user-images.githubusercontent.com/103306835/170194846-a840b395-8b9c-4ca8-9dfb-1839790f33ad.png)
+
+26.等待資料庫狀態變可用
+
+![image](https://user-images.githubusercontent.com/103306835/170194916-76e36660-07e6-4679-b8b3-3ca215fd1c57.png)
+
+27.回到網頁 設定Endpoint
+
+![image](https://user-images.githubusercontent.com/103306835/170195242-2a8be799-7a2a-4444-9672-811c457286c2.png)
+
+28.點選Save
+
+![image](https://user-images.githubusercontent.com/103306835/170195280-3f0c7a84-4bb6-426f-98c3-3bda71f9ee6a.png)
+
+29.任務3結果顯示
+
+![image](https://user-images.githubusercontent.com/103306835/170195322-461a3d4d-db65-4190-af56-575520070a53.png)
+
+目前實施架構
+
+![image](https://user-images.githubusercontent.com/103306835/170195365-1f593f3f-7679-452f-93cd-6f91f79ce065.png)
+
+# 任務3：建立擴展與水準負載架構
+
+1.點選[動作]
+
+![image](https://user-images.githubusercontent.com/103306835/170195453-ba59e3ae-edb5-4c3d-8830-ceda8efd0fad.png)
+
+2.建立映像
+
+![image](https://user-images.githubusercontent.com/103306835/170195799-cb40f714-e0de-484d-8748-6b904dac1702.png)
+
