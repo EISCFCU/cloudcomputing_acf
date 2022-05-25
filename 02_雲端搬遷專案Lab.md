@@ -210,3 +210,46 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/170186872-91de4621-814c-4ed2-96ed-4318f1c0e3f5.png)
 
+14.選擇HTTP(瀏覽器) 來源：0.0.0.0/0
+
+![image](https://user-images.githubusercontent.com/103306835/170187076-5a3478b8-ab2f-4cb3-bc15-8bbd05a5f113.png)
+
+15.展開[進階詳細資訊]
+
+![image](https://user-images.githubusercontent.com/103306835/170187099-0ff21ca5-82ef-49ef-ac21-cb52867b58e8.png)
+
+16.選擇IAM 
+
+![image](https://user-images.githubusercontent.com/103306835/170187212-2497561a-d94c-4ae4-a541-0fe52eba25ea.png)
+
+17.LabInstanceProfile
+
+![image](https://user-images.githubusercontent.com/103306835/170187246-a5b6de41-be5b-4cc7-8cff-0f6a72c29eac.png)
+
+18.貼上Userdata資料
+
+![image](https://user-images.githubusercontent.com/103306835/170187278-7eaf4d75-6723-4b85-9f1c-3a4fb3416448.png)
+
+19.點選[建立執行個體]
+
+![image](https://user-images.githubusercontent.com/103306835/170187346-8f833455-3c83-4d2c-bf93-48399ec3c8fc.png)
+
+20.點選[檢視所有執行個體]
+
+![image](https://user-images.githubusercontent.com/103306835/170187403-f69511d7-3064-47e9-9ece-a4791e19d1ea.png)
+
+21.重新整理
+
+![image](https://user-images.githubusercontent.com/103306835/170187474-881d3a9a-17fd-49d8-929e-701a648eee19.png)
+
+22.出現新增的伺服器
+
+![image](https://user-images.githubusercontent.com/103306835/170187513-4b6b54ed-c138-4eef-b2e7-3bef22ed7c28.png)
+
+23.更新狀態
+
+![image](https://user-images.githubusercontent.com/103306835/170187538-222e6306-e0b4-4864-a138-40abd4d22354.png)
+
+24.發現2/2項檢查通過
+
+
