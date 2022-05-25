@@ -3,5 +3,4 @@
 
 01_雲端資料庫搬遷Lab：
 
-02
-https://github.com/EISCFCU/cloudcomputing_acf/blob/main/lab-app.zip
+02_雲端搬遷專案Lab：
