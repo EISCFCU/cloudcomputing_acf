@@ -15,25 +15,13 @@
 3.公司沒有過多的伺服器(你可以想像是電腦)可以閒置，但網站伺服器要能因應購物人潮流量。需求峰值期間仍然可以保持高性能
 
 
-# 實作環境：AWS Academy Cloud Foundation-Sandbox
+# 實作環境：AWS Academy Learner Lab(課程代號：13467)
 
-1.開啟Sandbox
-
-![image](https://user-images.githubusercontent.com/103306835/170182468-2b4bf6d5-8963-4e68-9c8d-fbc267171b1b.png)
-
-2.點選[Start Lab]
-
-![image](https://user-images.githubusercontent.com/103306835/170182498-dbba508b-148c-45c4-901c-d10f71b80f76.png)
-
-3.點選[AWS]
-
-![image](https://user-images.githubusercontent.com/103306835/170182571-caa9224d-fbeb-406f-af3c-d4dccc98d580.png)
-
-4.登入AWS Management Console
+登入AWS Management Console
 
 ![image](https://user-images.githubusercontent.com/103306835/170182604-7e0e16c7-a178-45ab-88eb-8beb8fc69f91.png)
 
-5.實施步驟
+# 實施步驟
 
 ![image](https://user-images.githubusercontent.com/103306835/170182628-f2f1dea7-4a79-4689-b6e5-7782266df200.png)
 
