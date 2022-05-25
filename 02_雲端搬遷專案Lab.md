@@ -598,7 +598,59 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/170204953-328dbfa2-00db-4532-a216-ee3f2ba4e65c.png)
 
-44.
+44.選擇現有的負載平衡器(Load Balancer)(連接Auto Scaling與Load Balancer)
+
+![image](https://user-images.githubusercontent.com/103306835/170205200-d6a0a924-a061-4463-a4dc-486ce56b884e.png)
+
+45.選擇[從您的負載平衡器目標群組中選擇]
+
+![image](https://user-images.githubusercontent.com/103306835/170205263-e57f1184-a9c3-48bb-94c3-ccb1f57275c0.png)
+
+46.選擇[LabGroup]
+
+![image](https://user-images.githubusercontent.com/103306835/170205319-9ef12bfd-ec63-42c1-b81d-5a4a80e93886.png)
+
+47.勾選監控
+
+![image](https://user-images.githubusercontent.com/103306835/170205375-03011aee-3d4e-4cca-8d25-293df48aff3c.png)
+
+48.點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/170205418-b9cf3088-a414-4544-bec3-6be47b09eb51.png)
+
+49.設定自動擴展的EC2上下限
+
+![image](https://user-images.githubusercontent.com/103306835/170205454-8677e258-1b5d-4f2e-8fe5-728c04a3bd24.png)
+
+50.點選[目標追蹤擴展政策]
+
+![image](https://user-images.githubusercontent.com/103306835/170205499-613fed19-1e87-40af-b66f-fea90e36ab7e.png)
+
+51.輸入擴展政策名稱、類型與目標數值 點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/170205549-322d8297-b697-4d5e-9e8a-baaca5ee6f9e.png)
+
+52.點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/170205588-047326e5-6a65-4663-a00e-505164330f8b.png)
+
+53.命名群組名稱Lab Instance
+
+![image](https://user-images.githubusercontent.com/103306835/170205630-df032bf0-10a3-4706-8178-26f84d345624.png)
+
+54.點選[下一步]
+
+![image](https://user-images.githubusercontent.com/103306835/170205674-2509d9ee-8228-4084-babe-9fd2a0181595.png)
+
+55.點選[建立Auto Scaling群組]
+
+![image](https://user-images.githubusercontent.com/103306835/170205750-2413ca26-82bb-4b4f-9c83-08112b0929c7.png)
+
+56.成功建立自動擴展政策
+
+![image](https://user-images.githubusercontent.com/103306835/170205835-efee1d8b-5f70-4a82-9b33-ec619c009576.png)
+
+57.點選[執行個體]
 
 
 
