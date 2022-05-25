@@ -403,7 +403,7 @@ chkconfig httpd on
 
 24.設定初始資料庫名稱：lab(請務必輸入此名稱)
 
-![image](https://user-images.githubusercontent.com/103306835/170194830-853fb41b-d1ab-4215-b948-b7a28cc63872.png)
+![image](https://user-images.githubusercontent.com/103306835/170230495-87699833-a85b-4bc5-aecd-eb0f7b029c05.png)
 
 25.點選[建立資料庫]
 
