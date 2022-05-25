@@ -218,6 +218,24 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/170187278-7eaf4d75-6723-4b85-9f1c-3a4fb3416448.png)
 
+```
+
+#!/bin/bash
+# Install Apache Web Server and PHP
+yum install httpd mysql -y
+amazon-linux-extras install -y php7.2
+# Download Lab files
+wget https://fcucclabcode.s3.amazonaws.com/lab-app.zip
+unzip lab-app.zip -d /var/www/html/
+# Download and install the AWS SDK for PHP
+wget https://github.com/aws/aws-sdk-php/releases/download/3.62.3/aws.zip
+unzip aws -d /var/www/html
+# Turn on web server and ensure running on reboot
+service httpd start
+chkconfig httpd on
+```
+
+
 19.點選[建立執行個體]
 
 ![image](https://user-images.githubusercontent.com/103306835/170187346-8f833455-3c83-4d2c-bf93-48399ec3c8fc.png)
