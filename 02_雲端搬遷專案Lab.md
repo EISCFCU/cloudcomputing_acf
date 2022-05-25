@@ -156,4 +156,55 @@ AWS Academy Cloud Foundation-Sandbox
 
 目標：建立網站伺服器(作業系統：Linux)，並直接部署網站在上面。
 
+1.點選EC2
+
+![image](https://user-images.githubusercontent.com/103306835/170186206-f1c26900-8ea0-4963-8bd7-ada6bb7d4f3a.png)
+
+2.點選[執行個體]
+
+![image](https://user-images.githubusercontent.com/103306835/170186248-faf05b5c-a09b-488a-82f3-14a65c83a67b.png)
+
+3.點選[啟動執行個體]
+
+![image](https://user-images.githubusercontent.com/103306835/170186283-eb03dc7e-612d-4322-ba7c-045abd619d99.png)
+
+4.名稱：WebServer
+
+![image](https://user-images.githubusercontent.com/103306835/170186309-8297d053-6bdd-4631-aae0-2fb3ae6caab6.png)
+
+5.作業系統點選[Amazon Linux]
+
+![image](https://user-images.githubusercontent.com/103306835/170186553-113efbbc-6dc0-4669-a00a-226bdb85feae.png)
+
+6.選擇預設金鑰：vockey
+
+![image](https://user-images.githubusercontent.com/103306835/170186582-e09acb70-0071-4e3b-b098-c20766d709f7.png)
+
+7.點選[編輯]
+
+![image](https://user-images.githubusercontent.com/103306835/170186645-3b8fb8d7-d498-46ad-b8f3-4ce6354783a5.png)
+
+8.選擇Lab VPC
+
+![image](https://user-images.githubusercontent.com/103306835/170186677-e5b5a724-bd98-4979-9dbc-e1571037f00b.png)
+
+9.選擇在us-east-1a的子網
+
+![image](https://user-images.githubusercontent.com/103306835/170186708-9804217a-b67e-4d00-8ed7-0bb2d8fffc1d.png)
+
+10.選擇建立安全群組
+
+![image](https://user-images.githubusercontent.com/103306835/170186743-fc15b34d-5436-4b47-adbe-59072e1c3093.png)
+
+11.命名為WebServer
+
+![image](https://user-images.githubusercontent.com/103306835/170186790-649ceea0-68cd-46cd-8c64-75de035249cb.png)
+
+12.選擇SSH類型 來源：0.0.0.0/0
+
+![image](https://user-images.githubusercontent.com/103306835/170186822-41f3745f-3ea4-48d7-938f-95bbef1ad92f.png)
+
+13.點選[Add security group rule]
+
+![image](https://user-images.githubusercontent.com/103306835/170186872-91de4621-814c-4ed2-96ed-4318f1c0e3f5.png)
 
